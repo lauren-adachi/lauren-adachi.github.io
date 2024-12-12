@@ -3,7 +3,7 @@
 <br>
 ## Python
 <p style="text-align:center"> <b>
-<a href="https://laurenadachi.github.io/mov/Assembler.mov">RISC-V Assembler</a> <br> </b>
+<a href="https://lauren-adachi.github.io/mov/Assembler.mov">RISC-V Assembler</a> <br> </b>
 <img src="images/Assembler.png?raw=true" class="center">
 <br></p>
 
@@ -11,13 +11,13 @@
 <p style="text-align:center">
 <b>
 <br>
-<a href="https://laurenadachi.github.io/mov/Pacman.mov">Pacman</a> <br>
+<a href="https://lauren-adachi.github.io/mov/Pacman.mov">Pacman</a> <br>
 <img src="images/Pacman.png" style="width:340px;" ><br><br>
 
-<a href="https://laurenadachi.github.io/mov/Tetris.mov">Tetris</a> <br>
+<a href="https://lauren-adachi.github.io/mov/Tetris.mov">Tetris</a> <br>
 <img src="images/Tetris.png" style="width:340px;" > <br><br>
 
-<a href="https://laurenadachi.github.io/mov/DoodleJump.mov">DoodleJump</a> <br>
+<a href="https://lauren-adachi.github.io/mov/DoodleJump.mov">DoodleJump</a> <br>
 <img src="images/DoodleJump.png" style="width:340px;" > <br>
 </b>
 </p>

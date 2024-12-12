@@ -27,11 +27,11 @@ Design Samples: <br>
 <img src="images/PVDXPowerBudget.png?raw=true" style="width:235px;">
 <img src="images/PVDXRadioAnalysis.png?raw=true" style="width:245px;">
 
-<a href="https://laurenadachi.github.io/pdf/LaunchAppIntro.pdf">Excerpt from Launch Application to NASA's CubeSat Launch Initiative program</a><br>
+<a href="https://lauren-adachi.github.io/pdf/LaunchAppIntro.pdf">Excerpt from Launch Application to NASA's CubeSat Launch Initiative program</a><br>
 <img src="images/LaunchApp1.png?raw=true" style="width:240px;">
 <img src="images/LaunchApp2.png?raw=true" style="width:240px;">
 <br>
-<a href="https://laurenadachi.github.io/pdf/SRR.pdf">System Requirements Review Slides</a><br>
+<a href="https://lauren-adachi.github.io/pdf/SRR.pdf">System Requirements Review Slides</a><br>
 
 <br><a href="https://github.com/BrownSpaceEngineering">GitHub Organization Link</a>
 
@@ -66,15 +66,15 @@ I designed a wireless power transfer link (inductive) for a pacemaker system and
 <br>
 <img src="images/IPT.png?raw=true" style="width:480px;">
 <br>
-<a href="https://laurenadachi.github.io/pdf/IPT_Design.pdf">Design Summary</a><br>
-<a href="https://laurenadachi.github.io/pdf/CoilCalculator_v4.py">Script</a><br>
+<a href="https://lauren-adachi.github.io/pdf/IPT_Design.pdf">Design Summary</a><br>
+<a href="https://lauren-adachi.github.io/pdf/CoilCalculator_v4.py">Script</a><br>
 
 ## Cadence Virtuoso
 I designed and simulated a delta-sigma ADC for robotic control systems applications.
 <br>
 <img src="images/ADC.png?raw=true" style="width:480px;">
 <br>
-<a href="https://laurenadachi.github.io/pdf/Delta_Sigma_ADC.pdf">Design Summary</a><br>
+<a href="https://lauren-adachi.github.io/pdf/Delta_Sigma_ADC.pdf">Design Summary</a><br>
 
 <br>
 
@@ -91,5 +91,5 @@ I designed and simulated a delta-sigma ADC for robotic control systems applicati
 
 <img src="images/FPGA.png?raw=true" style="float:right;width:75px;">
 ## FPGAs
-<a href="https://laurenadachi.github.io/processor">Single Cycle Processor</a> <br>
+<a href="https://lauren-adachi.github.io/processor">Single Cycle Processor</a> <br>
 [Scrolling message board](/mov/FPGAScroll.mp4)<br>
